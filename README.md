@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Hello! My name is TJ (he/him). I am studying Computer Engineering at the University of South Florida.
+
+I have a huge interest in both backend and frontend software development as well as creating hardware. Currently studying for Azure, AWS, and CompTia certifications as well as Python and web development.
+
+I'm hoping to learn a lot about these topics and make cool things!
+
 <!--
 **TJGamePlay2/TJGamePlay2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
